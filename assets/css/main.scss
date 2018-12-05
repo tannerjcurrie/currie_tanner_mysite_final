@@ -1,0 +1,44 @@
+---
+---
+
+body,html {
+    background-color: rgb(230, 190, 80);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+i{
+    font-size:30px; 
+    color: white
+}
+
+
+
+
+img {
+    display:block;
+    margin:0 auto;
+    border:5px solid white;
+    border-radius: 200px;
+}
+
+ul > li {
+    display:inline;
+    margin: 0 50px 0 70px;
+   
+    
+    
+
+
+}
+
+p {
+    color:white;
+}
+
+.grey-copy{
+    color: grey;
+}
